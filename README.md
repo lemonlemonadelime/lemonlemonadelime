@@ -3,4 +3,4 @@
 Hi im Lemon **(she/any)** I specialize in Game Development.
 
 I mostly code in these languages:
-<img src="https://skillicons.dev/icons" />
+[![Languages]https://skillicons.dev/icons?i=js,lua)](https://skillicons.dev)
