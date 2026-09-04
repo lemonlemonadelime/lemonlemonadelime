@@ -8,4 +8,4 @@ I mostly code in these languages:
 
 I use these code editors:
 
-<img src="https://skillicons.dev/icons?i=sublime"/>
+<img src="https://skillicons.dev/icons?i=sublime,vscode"/>
